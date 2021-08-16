@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendsvcApplication<backendsvc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.digifreneur.miniblog.backendsvc.BackendsvcApplication",
+            "projectName": "backendsvc",
+            "args": ""
+        }
+    ]
+}
